@@ -31,7 +31,7 @@
   - [Chat bot](https://github.com/joshmadakor1/Algorithms-Practice)
 
 - <b>Academic paper 📄</b>
-  - [Do game mechanics affect realism and player engagement in video games](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Do game mechanics affect realism and player engagement in video games](https://github.com/joaopedrocpalma/Academic-paper)
 
   
 <h2>👨‍💻 Other Programming Projects:</h2>
