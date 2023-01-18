@@ -6,17 +6,33 @@
   
   - [Bound to Racing!](https://github.com/joshmadakor1/Algorithms-Practice)
   - [ConQuest](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Ninka Strike](https://github.com/joshmadakor1/Algorithms-Practice)
   - Other: [Game menu](https://github.com/joshmadakor1/Algorithms-Practice)
+  - Other: [AI testing](https://github.com/joshmadakor1/Algorithms-Practice)
  
   
  - <b>C#/C++ Games</b>
    - C#: [Scrabble](https://github.com/joshmadakor1/Algorithms-Practice)
    - C++: [GameEngine](https://github.com/joshmadakor1/Algorithms-Practice)
   
+- <b>Modelling and Animation</b>
+  - [Mall model](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Racing map model](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Soldier model](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Tesla model](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Walkway model](https://github.com/joshmadakor1/Algorithms-Practice)
+  
 - <b>Design</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Modelling</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [ReLax animation](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Healthy Smoothie Bar](https://github.com/joshmadakor1/Algorithms-Practice)
+
+- <b>Other Projects</b>
+  - [Arduino](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Chat bot](https://github.com/joshmadakor1/Algorithms-Practice)
+
+- <b>Academic paper</b>
+  - [Do game mechanics affect realism and player engagement in video games](https://github.com/joshmadakor1/Algorithms-Practice)
+
   
 <h2>👨‍💻 Other Programming Projects:</h2>
 
