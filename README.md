@@ -27,7 +27,7 @@
   - [Healthy Smoothie Bar](https://github.com/joshmadakor1/Algorithms-Practice)
 
 - <b>Other Projects 📓</b>
-  - [Arduino](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Arduino](https://github.com/joaopedrocpalma/Arduino-smart-toaster)
   - [Chat bot](https://github.com/joshmadakor1/Algorithms-Practice)
 
 - <b>Academic paper 📄</b>
