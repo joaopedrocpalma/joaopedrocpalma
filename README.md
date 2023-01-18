@@ -2,13 +2,16 @@
 
 <h2>👨‍💻 Games Technology Projects:</h2>
 
-- <b>Games</b>
+- <b>Unity Games</b>
   
-  - Unity: [Bound to Racing!](https://github.com/joshmadakor1/Algorithms-Practice)
-  - Unity: [ConQuest](https://github.com/joshmadakor1/Algorithms-Practice)
-  - Other Unity: [Game menu](https://github.com/joshmadakor1/Algorithms-Practice)
-  - C#: [Scrabble](https://github.com/joshmadakor1/Algorithms-Practice)
-  - C++: [GameEngine](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Bound to Racing!](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [ConQuest](https://github.com/joshmadakor1/Algorithms-Practice)
+  - Other: [Game menu](https://github.com/joshmadakor1/Algorithms-Practice)
+ 
+  
+ - <b>C#/C++ Games</b>
+   - C#: [Scrabble](https://github.com/joshmadakor1/Algorithms-Practice)
+   - C++: [GameEngine](https://github.com/joshmadakor1/Algorithms-Practice)
   
 - <b>Design</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
