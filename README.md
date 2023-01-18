@@ -12,7 +12,7 @@
  
   
  - <b>C#/C++ Games 🎮</b>
-   - C#: [Scrabble](https://github.com/joshmadakor1/Algorithms-Practice)
+   - C#: [Scrabble](https://github.com/joaopedrocpalma/Scrabble)
    - C++: [GameEngine](https://github.com/joshmadakor1/Algorithms-Practice)
   
 - <b>Modelling and Animation 🚶</b>
