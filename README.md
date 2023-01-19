@@ -24,7 +24,7 @@
   
 - <b>Design 📝</b>
   - [ReLax animation](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Healthy Smoothie Bar](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Healthy Smoothie Bar](https://github.com/joaopedrocpalma/Healthy-smoothie-bar)
 
 - <b>Other Projects 📓</b>
   - [Arduino](https://github.com/joaopedrocpalma/Arduino-smart-toaster)
