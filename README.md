@@ -5,22 +5,22 @@
 - <b>Unity Games 🎮</b>
   
   - [Bound to Racing!](https://github.com/joaopedrocpalma/Bound-to-racing)
-  - [ConQuest](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Ninka Strike](https://github.com/joshmadakor1/Algorithms-Practice)
-  - Other: [Game menu](https://github.com/joshmadakor1/Algorithms-Practice)
-  - Other: [AI testing](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [ConQuest](https://github.com/joaopedrocpalma/ConQuest)
+  - [Ninka Strike]()
+  - Other: [Game menu]()
+  - Other: [AI testing]()
  
   
  - <b>C#/C++ Games 🎮</b>
    - C#: [Scrabble](https://github.com/joaopedrocpalma/Scrabble)
-   - C++: [GameEngine](https://github.com/joshmadakor1/Algorithms-Practice)
+   - C++: [GameEngine]()
   
 - <b>Modelling and Animation 🚶</b>
-  - [Mall model](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Racing map model](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Soldier model](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Tesla model](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Walkway model](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Mall model]()
+  - [Racing map model]()
+  - [Soldier model]()
+  - [Tesla model]()
+  - [Walkway model]()
   
 - <b>Design 📝</b>
   - [ReLax animation](https://github.com/joaopedrocpalma/ReLax)
@@ -37,25 +37,25 @@
 <h2>👨‍💻 Other Programming Projects:</h2>
 
 - <b>Websites</b>
-  - [Movies Website](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Movies Website]()
 - <b>Basic Programmes</b>
-  - [Practicing C#](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Practicing Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Practicing C#]()
+  - [Practicing Python]()
 - <b>Databases</b>
-  - [Practicing with Databases](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Practicing with Databases]()
   
 <h2>📃 Certifications 📚</h2>
 
-- [Learning C++](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Learning C++]()
   
 <h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [How to get into Cybersecurity Starting From Zero]()
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="" />][youtube]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://www.linkedin.com/in/jp-games-tech/" />][linkedin]
 
 [youtube]: https://www.youtube.com/c/joshmadakor
 [linkedin]: https://www.linkedin.com/in/jp-games-tech/
