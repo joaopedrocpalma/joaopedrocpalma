@@ -4,7 +4,7 @@
 
 - <b>Unity Games 🎮</b>
   
-  - [Bound to Racing!](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Bound to Racing!](https://github.com/joaopedrocpalma/Bound-to-racing)
   - [ConQuest](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Ninka Strike](https://github.com/joshmadakor1/Algorithms-Practice)
   - Other: [Game menu](https://github.com/joshmadakor1/Algorithms-Practice)
