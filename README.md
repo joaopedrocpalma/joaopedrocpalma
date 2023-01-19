@@ -54,7 +54,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="" />][youtube]
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://www.linkedin.com/in/jp-games-tech/" />][youtube]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://www.linkedin.com/in/jp-games-tech/" />][linkedin]
 
 [youtube]: https://www.youtube.com/c/joshmadakor
