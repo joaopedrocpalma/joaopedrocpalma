@@ -57,7 +57,7 @@
 [<img align="left" alt="JoaoPalma | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoaoPalma | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[youtube]: 
+[youtube]: https://www.google.com
 [linkedin]: https://www.linkedin.com/in/jp-games-tech/
 
 <!--
