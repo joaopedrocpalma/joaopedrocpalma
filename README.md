@@ -23,7 +23,7 @@
   - [Walkway model](https://github.com/joshmadakor1/Algorithms-Practice)
   
 - <b>Design 📝</b>
-  - [ReLax animation](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [ReLax animation](https://github.com/joaopedrocpalma/ReLax)
   - [Healthy Smoothie Bar](https://github.com/joaopedrocpalma/Healthy-smoothie-bar)
 
 - <b>Other Projects 📓</b>
