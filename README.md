@@ -8,7 +8,7 @@
   - [ConQuest](https://github.com/joaopedrocpalma/ConQuest)
   - [Ninka Strike]()
   - Other: [Game menu](https://github.com/joaopedrocpalma/Game-menu)
-  - Other: [AI testing]()
+  - Other: [AI testing](https://github.com/joaopedrocpalma/AI-testing)
  
   
  - <b>C#/C++ Games 🎮</b>
