@@ -16,7 +16,7 @@
    - C++: [GameEngine]()
   
 - <b>Modelling and Animation 🚶</b>
-  - [Models list]()
+  - [Models list](https://github.com/joaopedrocpalma/3D-models)
   
 - <b>Design 📝</b>
   - [ReLax animation](https://github.com/joaopedrocpalma/ReLax)
