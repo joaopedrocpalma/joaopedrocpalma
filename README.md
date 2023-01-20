@@ -16,11 +16,7 @@
    - C++: [GameEngine]()
   
 - <b>Modelling and Animation 🚶</b>
-  - [Mall model]()
-  - [Racing map model]()
-  - [Soldier model]()
-  - [Tesla model]()
-  - [Walkway model]()
+  - [Models list]()
   
 - <b>Design 📝</b>
   - [ReLax animation](https://github.com/joaopedrocpalma/ReLax)
