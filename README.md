@@ -1,4 +1,4 @@
-<h1>Hi, I'm Joao! <br/><a href="https://github.com/joaopedrocpalma">Programmer</a> | <a href="https://www.linkedin.com/in/jp-games-tech/">Games Developer</a> |<a href="https://github.com/joaopedrocpalma/Certifications">📃Certifications</a></h1>
+<h1>Hi, I'm Joao! <br/><a href="https://github.com/joaopedrocpalma">👨‍💻Programmer</a> | <a href="https://www.linkedin.com/in/jp-games-tech/">🎮Games Developer</a> |<a href="https://github.com/joaopedrocpalma/Certifications">📃Certifications</a></h1>
 
 <h2>👨‍💻 Games Technology Projects:</h2>
 
