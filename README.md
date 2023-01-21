@@ -1,4 +1,4 @@
-<h1>Hi, I'm Joao! <br/><a href="https://github.com/DrixRepos">Programmer</a>, <a href="https://www.linkedin.com/in/jp-games-tech/">Games Developer</a></h1>
+<h1>Hi, I'm Joao! <br/><a href="https://github.com/joaopedrocpalma">Programmer</a>, <a href="https://www.linkedin.com/in/jp-games-tech/">Games Developer</a><a href="https://github.com/joaopedrocpalma/Certifications">📃Certifications</a></h1>
 
 <h2>👨‍💻 Games Technology Projects:</h2>
 
@@ -39,14 +39,6 @@
   - [Practicing Python]()
 - <b>Databases</b>
   - [Practicing with Databases]()
-  
-<h2>📃 Certifications 📚</h2>
-
-- [Learning C++]()
-  
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero]()
 
 <h2> 🤳 Connect with me:</h2>
 
